@@ -6,7 +6,7 @@
 
 Projeto construído com conhecimentos adquiridos nas aulas da Rocketseat.
 
-[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_eSports_Rocketseat/)
+[ 🔗 Clique aqui para acessar](https://feliz-natal-xuxu.vercel.app/)
 
 ## 🚀 Tecnologias
 
